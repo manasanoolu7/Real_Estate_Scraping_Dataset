@@ -38,3 +38,19 @@ o	If yes: Area
 •	State of the building (New, to be renovated, ...)
 
 
+**Workplan**
+We approached the project with a pragmatic mindset, to each collect datasets from different websites, and help each other build the different codes to be able to do so effectively. 
+
+
+**Challenges:**
+Finding websites to get information from. We encountered either being blocked or captcha measures that prevented us from getting any data from some of the websites.
+Building the code was also that worked was also quite challenging, and a lot of lessons in the best tools to use were learned along the way.
+Scrapping is also an activity that showed itself to need time, which we had not anticipated.
+
+
+**Pending things to do**
+/*:
+Finish collecting the data
+Merge the datasets, and assign appropriate values for all fields
+/*
+
