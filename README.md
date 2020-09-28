@@ -1,11 +1,11 @@
 **REAL ESTATE DATA COLLECTION PROJECT**
 
 **Group   members**
-/*:
-Manasa Noolu
-Naomi Thiru
-Abdelilah Zaidi
-/*
+*/
+Manasa Noolu,
+Naomi Thiru,
+Abdelilah Zaidi,
+*/
 
 
 **Overview**
@@ -49,8 +49,9 @@ Scrapping is also an activity that showed itself to need time, which we had not 
 
 
 **Pending things to do**
-/*:
+
 Finish collecting the data
+
 Merge the datasets, and assign appropriate values for all fields
-/*
+
 
